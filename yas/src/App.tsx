@@ -8,7 +8,7 @@ function App() {
 
   return (
     <div>
-      <h1>이것은 제목</h1>
+      <h1>이것은 제목 이시후가 다해줌</h1>
     </div>
   )
 }
